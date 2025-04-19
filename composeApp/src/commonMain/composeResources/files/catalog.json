@@ -1,0 +1,500 @@
+[
+    {
+      "name": "algebra",
+      "display": "Álgebra",
+      "topics": [
+        {
+          "name": "exponentes_y_radicales",
+          "display": "Exponentes y Radicales"
+        },
+        {
+          "name": "ecuaciones_exponenciales",
+          "display": "Ecuaciones Exponenciales"
+        },
+        {
+          "name": "expresiones_algebraicas",
+          "display": "Expresiones Algebraicas"
+        },
+        {
+          "name": "productos_notables",
+          "display": "Productos Notables"
+        },
+        {
+          "name": "division_algebraica",
+          "display": "División Algebraica"
+        },
+        {
+          "name": "factorizacion",
+          "display": "Factorización"
+        },
+        {
+          "name": "fracciones_algebraicas",
+          "display": "Fracciones algebraicas"
+        },
+        {
+          "name": "radicacion",
+          "display": "Radicación"
+        },
+        {
+          "name": "factorial_de_un_numero_natural",
+          "display": "Factorial de un número natural"
+        },
+        {
+          "name": "binomio_de_newton",
+          "display": "Binomio de Newton"
+        },
+        {
+          "name": "analisis_combinatorio",
+          "display": "Análisis Combinatorio"
+        },
+        {
+          "name": "probabilidades",
+          "display": "Probabilidades"
+        },
+        {
+          "name": "campo_complejo",
+          "display": "Campo Complejo"
+        },
+        {
+          "name": "ecuaciones_de_primer_grado",
+          "display": "Ecuaciones de 1er grado"
+        },
+        {
+          "name": "ecuaciones_de_segundo_grado",
+          "display": "Ecuaciones de 2º grado"
+        },
+        {
+          "name": "ecuaciones_de_grado_superior",
+          "display": "Ecuaciones de grado superior"
+        },
+        {
+          "name": "matrices_y_determinantes",
+          "display": "Matrices y Determinantes"
+        },
+        {
+          "name": "sistemas_lineales",
+          "display": "Sistemas Lineales"
+        },
+        {
+          "name": "sistemas_de_grado_superior",
+          "display": "Sistemas de grado superior"
+        },
+        {
+          "name": "planteamiento_de_ecuaciones",
+          "display": "Planteamiento de Ecuaciones"
+        },
+        {
+          "name": "desigualdades_e_inecuaciones_de_primer_grado",
+          "display": "Desigualdades e Inecuaciones de 1er grado"
+        },
+        {
+          "name": "inecuaciones_de_segundo_grado_y_de_grado_superior",
+          "display": "Inecuaciones de 2º grado y de grado superior"
+        },
+        {
+          "name": "relaciones_y_funciones_i",
+          "display": "Relaciones y Funciones I"
+        },
+        {
+          "name": "funciones_ii",
+          "display": "Funciones II"
+        },
+        {
+          "name": "funcion_exponencial_y_logaritmica",
+          "display": "Función Exponencial y Logarítmica"
+        },
+        {
+          "name": "limite_de_una_funcion",
+          "display": "Límite de una Función"
+        },
+        {
+          "name": "la_derivada_y_sus_aplicaciones",
+          "display": "La Derivada y sus aplicaciones"
+        },
+        {
+          "name": "induccion_matematica",
+          "display": "Inducción Matemática"
+        },
+        {
+          "name": "sucesiones_series_y_progresiones",
+          "display": "Sucesiones, Series y Progresiones"
+        }
+      ]
+    },
+
+    {
+      "name": "razonamiento_matematico",
+      "display": "Razonamiento Matemático",
+      "topics": [
+        {
+          "name": "situaciones_logicas",
+          "display": "Situaciones lógicas"
+        },
+        {
+          "name": "sucesiones",
+          "display": "Sucesiones"
+        },
+        {
+          "name": "series",
+          "display": "Series"
+        },
+        {
+          "name": "sumatorias",
+          "display": "Sumatorias"
+        },
+        {
+          "name": "induccion_deduccion",
+          "display": "Inducción y deducción"
+        },
+        {
+          "name": "conteo_de_figuras",
+          "display": "Conteo de figuras"
+        },
+        {
+          "name": "analogias_y_distribuciones",
+          "display": "Analogías y distribuciones"
+        },
+        {
+          "name": "planteo_de_ecuaciones",
+          "display": "Planteo de ecuaciones"
+        },
+        {
+          "name": "edades",
+          "display": "Edades"
+        },
+        {
+          "name": "moviles",
+          "display": "Móviles"
+        },
+        {
+          "name": "cronometria",
+          "display": "Cronometría"
+        },
+        {
+          "name": "operadores_matematicos",
+          "display": "Operadores matemáticos"
+        },
+        {
+          "name": "notacion_polinomica",
+          "display": "Notación polinómica"
+        },
+        {
+          "name": "cortes_estacas_pastillas",
+          "display": "Cortes, estacas y pastillas"
+        },
+        {
+          "name": "introduccion_a_la_topologia",
+          "display": "Introducción a la topología"
+        },
+        {
+          "name": "orden_de_informacion",
+          "display": "Orden de información"
+        },
+        {
+          "name": "certezas",
+          "display": "Certezas"
+        },
+        {
+          "name": "parentescos",
+          "display": "Parentescos"
+        },
+        {
+          "name": "maximos_y_minimos",
+          "display": "Máximos y mínimos"
+        },
+        {
+          "name": "cuatro_operaciones",
+          "display": "Cuatro operaciones"
+        },
+        {
+          "name": "progresiones",
+          "display": "Progresiones"
+        },
+        {
+          "name": "razones_y_proporciones",
+          "display": "Razones y proporciones"
+        },
+        {
+          "name": "promedios",
+          "display": "Promedios"
+        },
+        {
+          "name": "magnitudes_proporcionales",
+          "display": "Magnitudes proporcionales"
+        },
+        {
+          "name": "teoria_de_conjuntos",
+          "display": "Teoría de conjuntos"
+        },
+        {
+          "name": "mezclas",
+          "display": "Mezclas"
+        },
+        {
+          "name": "criptoaritmetica",
+          "display": "Criptoaritmética"
+        },
+        {
+          "name": "metodos_aritmeticos",
+          "display": "Métodos aritméticos"
+        },
+        {
+          "name": "numeracion",
+          "display": "Numeración"
+        },
+        {
+          "name": "regla_de_tres",
+          "display": "Regla de tres"
+        },
+        {
+          "name": "tanto_por_ciento",
+          "display": "Tanto por ciento"
+        },
+        {
+          "name": "propiedades_de_los_numeros",
+          "display": "Propiedades de los números"
+        },
+        {
+          "name": "fracciones",
+          "display": "Fracciones"
+        },
+        {
+          "name": "reduccion_a_la_unidad",
+          "display": "Reducción a la unidad"
+        },
+        {
+          "name": "numeros_decimales",
+          "display": "Números decimales"
+        },
+        {
+          "name": "estadistica",
+          "display": "Estadística"
+        },
+        {
+          "name": "factoriales",
+          "display": "Factoriales"
+        },
+        {
+          "name": "analisis_combinatorio",
+          "display": "Análisis Combinatorio"
+        },
+        {
+          "name": "probabilidades",
+          "display": "Probabilidades"
+        },
+        {
+          "name": "exponente_productos_notables",
+          "display": "Exponentes productos notables"
+        },
+        {
+          "name": "resolucion_de_ecuaciones",
+          "display": "Resolución de ecuaciones"
+        },
+        {
+          "name": "desigualdades_e_inecuaciones",
+          "display": "Desigualdades e inecuaciones"
+        },
+        {
+          "name": "relaciones_y_funciones",
+          "display": "Relaciones y funciones"
+        },
+        {
+          "name": "logaritmos",
+          "display": "Logaritmos"
+        },
+        {
+          "name": "ruedas_poleas_engranajes",
+          "display": "Ruedas, poleas, engranajes"
+        },
+        {
+          "name": "suficiencia_de_datos",
+          "display": "Suficiencia de datos"
+        },
+        {
+          "name": "introduccion_a_la_logica",
+          "display": "Introducción a la lógica"
+        },
+        {
+          "name": "psicotecnico",
+          "display": "Psicotécnico"
+        },
+        {
+          "name": "triangulo_rectangulo",
+          "display": "Triángulo rectángulo"
+        },
+        {
+          "name": "areas_de_regiones_sombreadas",
+          "display": "Áreas de regiones sombreadas"
+        },
+        {
+          "name": "perimetros",
+          "display": "Perímetros"
+        },
+        {
+          "name": "geometria_analitica",
+          "display": "Geometría analítica"
+        },
+        {
+          "name": "habilidad_logica",
+          "display": "Habilidad lógica"
+        },
+        {
+          "name": "habilidad_aritmetica",
+          "display": "Habilidad aritmética"
+        },
+        {
+          "name": "habilidad_algebraica",
+          "display": "Habilidad algebraica"
+        },
+        {
+          "name": "habilidad_geometrica",
+          "display": "Habilidad geométrica"
+        },
+        {
+          "name": "practicas_tipo_admision",
+          "display": "Prácticas tipo admisión"
+        }
+      ]
+
+    },
+
+    {
+      "name": "fisica",
+      "display": "Física",
+      "topics": [
+        {
+          "name": "analisis_dimensional",
+          "display": "Análisis dimensional"
+        },
+        {
+          "name": "analisis_vectorial",
+          "display": "Análisis vectorial"
+        },
+        {
+          "name": "cinematica",
+          "display": "Cinemática"
+        },
+        {
+          "name": "movimiento_vertical_de_caida_libre",
+          "display": "MVCL"
+        },
+        {
+          "name": "estatica",
+          "display": "Estática"
+        },
+        {
+          "name": "dinamica",
+          "display": "Dinámica"
+        },
+        {
+          "name": "rozamiento",
+          "display": "Rozamiento"
+        },
+        {
+          "name": "trabajo_y_potencia",
+          "display": "Trabajo y potencia"
+        },
+        {
+          "name": "energia",
+          "display": "Energía"
+        },
+        {
+          "name": "hidrostatica_y_calorimetria",
+          "display": "Hidrostática y calorimetría"
+        },
+        {
+          "name": "termodinamica",
+          "display": "Termodinámica"
+        },
+        {
+          "name": "electrostatica",
+          "display": "Electrostática"
+        },
+        {
+          "name": "condensadores",
+          "display": "Condensadores"
+        },
+        {
+          "name": "electrodinamica",
+          "display": "Electrodinámica"
+        },
+        {
+          "name": "optica",
+          "display": "Óptica"
+        }
+      ]
+
+    },
+    {
+      "name": "quimica",
+      "display": "Química",
+      "topics": [
+        {
+          "name": "teoria_atomica",
+          "display": "Teoría atómica"
+        },
+        {
+          "name": "tabla_periodica",
+          "display": "Tabla periódica"
+        },
+        {
+          "name": "enlace_quimico",
+          "display": "Enlace químico"
+        },
+        {
+          "name": "nomenclatura_inorganica",
+          "display": "Nomenclatura inorgánica"
+        },
+        {
+          "name": "reacciones_quimicas",
+          "display": "Reacciones químicas"
+        },
+        {
+          "name": "unidades_quimicas_de_masa",
+          "display": "Unidades químicas de masa"
+        },
+        {
+          "name": "composicion_centesimal",
+          "display": "Composición centesimal"
+        },
+        {
+          "name": "determinacion_de_formulas",
+          "display": "Determinación de fórmulas"
+        },
+        {
+          "name": "estequiometria",
+          "display": "Estequiometría"
+        },
+        {
+          "name": "estado_gaseoso",
+          "display": "Estado gaseoso"
+        },
+        {
+          "name": "soluciones",
+          "display": "Soluciones"
+        },
+        {
+          "name": "cinetica_quimica",
+          "display": "Cinética química"
+        },
+        {
+          "name": "equilibrio_quimico",
+          "display": "Equilibrio químico"
+        },
+        {
+          "name": "acidos_y_bases",
+          "display": "Ácidos y bases"
+        },
+        {
+          "name": "electroquimica",
+          "display": "Electroquímica"
+        },
+        {
+          "name": "quimica_organica",
+          "display": "Química orgánica"
+        }
+      ]
+
+    }
+]
+
