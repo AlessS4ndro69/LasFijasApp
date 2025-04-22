@@ -11,13 +11,14 @@ Bienvenidos a **LasFijas**, una aplicación diseñada especialmente para estudia
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## 🖼️ UI
 
 <p align="center">
-  <img src="assets/Screenshot_20230804-153114_soykachimbo.jpg" alt="screenhome" width="200"/>
-  <img src="assets/Screenshot_20230804-153107_soykachimbo.jpg" alt="screencourses" width="200"/>
-  <img src="assets/Screenshot_20230804-153010_soykachimbo.jpg" alt="screenform" width="200"/>
-  <img src="assets/Screenshot_1698338364.png" alt="screensolution" width="200"/>
+  <img src="https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM3MDEzNDA0XzIyODc2NF8yMDI1MDQxNDIyMDkxODIyMQ/screen-1.webp?fakeurl=1&type=.webp" alt="screencourses" width="200"/>
+  <img src="https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM3MDEzNDA0XzIyODc2NF8yMDI1MDQxNDIyMDU0ODE1Mw/screen-0.webp?fakeurl=1&type=.webp" alt="screenhome" width="200"/>
+  <img src="https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM3MDEzNDA0XzIyODc2NF8yMDI1MDQxNDIyMDkyOTg4OA/screen-3.webp?fakeurl=1&type=.webp" alt="screenform" width="200"/>
+  <img src="https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM3MDEzNDA0XzIyODc2NF8yMDI1MDQxNDIyMDkzNjQzOA/screen-4.webp?fakeurl=1&type=.webp" alt="screensolution" width="200"/>
+    <img src="https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzM3MDEzNDA0XzIyODc2NF8yMDI1MDQxNDIyMDkyMzkyMg/screen-2.webp?fakeurl=1&type=.webp" alt="screensolution" width="200"/>
 </p>
 
 
@@ -92,7 +93,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ## 🌐 Demo
 
-> https://apkpure.com/p/org.aless4ndro.soykachimbo
+> https://apkpure.com/p/org.inkasoft.soykachimbo
 
 ---
 
