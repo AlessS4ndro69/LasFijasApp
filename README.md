@@ -27,34 +27,44 @@ Bienvenidos a **LasFijas**, una aplicación diseñada especialmente para estudia
 
 - **Frontend**: Kotlin Compose Multiplatform 📱 Permite compartir código entre Android, Desktop y Web, logrando una experiencia nativa y eficiente en múltiples plataformas.
 - **Backend**
+  
   -AWS Lambda: Funciones serverless que ejecutan la lógica de negocio bajo demanda.
+  
   -API Gateway: Exposición de endpoints RESTful que conectan al frontend con el backend.
+  
   -AWS S3: Almacenamiento estático de recursos como PDFs, imágenes y datos generados. 
 - **Estilos**: Jetpack Compose. El diseño de interfaces se realiza con un enfoque declarativo, permitiendo UI reactivas y modernas.
 - **Clean Architecture**
+  
   -Capa de Presentación
     -UI en Compose (Multiplatform)
     -Interacción con ViewModels
     -Comunicación con los casos de uso mediante eventos
+  
   -Capa de Dominio
     -Casos de uso (UseCases)
     -Entidades puras (Entities)
     -Interfaces de repositorios
+  
   -Capa de Datos
     -Implementación de repositorios
     -Clientes HTTP para consumir API Gateway
     -Acceso a AWS S3 u otros servicios si es necesario
+  
   -Capa de Infraestructura (Backend)
     -Lógica de negocio en AWS Lambda
     -API RESTful en API Gateway
     -Conexión con S3 para almacenar o recuperar datos (por ejemplo, ejercicios en PDF)
 - **Patrones de diseño**
+  
   -MVVM (Model - View - ViewModel)
     -Desacople entre lógica, interfaz y datos
     -Uso de estados observables en Compose
+  
   -Repository Pattern
     -Abstracción del origen de datos (API o local)
     -Facilita testeo y escalabilidad
+  
   -Dependency Injection con Koin
     -Configuración modular de dependencias
     -Inyección automática en ViewModels, repositorios y casos de uso
