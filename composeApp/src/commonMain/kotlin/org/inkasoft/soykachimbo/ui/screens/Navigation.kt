@@ -65,7 +65,7 @@ fun Navigation(){
             }
             composable("pdfviewer"){
                 PdfViewerScreen(
-                    pdfUrl="https://questions-soykachimbo.s3.amazonaws.com/Algebra/PDF/PRACTICA%2003.pdf?AWSAccessKeyId=ASIA6GNMNEGJ5TWWZFKP&Signature=T0vgPLb7WiXYXYhcgw6uhnBtHsI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCDhDSTdUjr9OH7%2BxuMAXmQwH44Kaq%2FqK4ShAni832zIQIhAJ%2FIAoK2ScGhqf%2FN2aK%2B4Oebu5R1FQHTVLzQeLXVLJJdKpcDCDwQABoMOTc1ODU2MDE3ODExIgwRylIe%2BO0A4aq%2BPS8q9AKV%2BmgwUkGf5Ku6MhH2jPPdLig%2BPZ%2FUeIS4bDNXHO%2BIOil%2BhJiJubT6UYECfzft62%2FKGxeax8AxcK2OgkiWeQPjQEL%2BaWV2bNL3dWWuxsClVRER%2BLmBTthgNL1BpQrNuUgFI7SpFWNwYPx4JqX%2Fq6Z0VALEApLaj%2B2fL0WKVdaX77AEyAe62vKehGEhDrqDAnTIDfVrwkUI6quyr0ivBUWnrfSKFh990TsivsGnEiMbg6lKojFOE3%2BLKGAi0Qoug05unG1InP5Rgnre1%2BYIAwcvs84gbi6PV5M1IrBuqM7C4zB5N3dDmO%2BPZ59ts6ZLgX2WyTJORIYEYJXbd489J97KAQJmGVvVM%2B7SKVgH3ah0Y4nw1AQXCjUFkzjESziduSZw46OLb%2Bhcy1RQwtFVRdKzLVYSX8%2FuADkYkZ6SyuiJ%2FyOH%2BP7gnREBdOdE%2BAzzsZ9nWDOxnGkfgrbxsD0mDEhwcCjNw58ugQ8D6q1ehjI7TIrQPVgwh%2FuSvwY6nAG52c8MD5ehIZm9rVyWcuoRSH36B5WVORPVMNTPmQMXa%2F%2BxIG3lEzWPlZpvC%2FeYxUsIQ%2FPKjy7gM9%2FDA5HBxCPyYqqXp87aoHMmTSkJqNg91FQ17TIwd9aeMYX03xOHBeBYNxFnhKmP3KZAtAKBcZT0nhG9pTcLLdhykjzcp6RE3N0zIA8DWI9TpghUwHzFrT7%2BkE8J53acWc1qTPM%3D&Expires=1743047576",
+                    pdfUrl="",
                     onBack = {navController.navigateUp()}
                 )
             }
